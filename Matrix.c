@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <locale.h>
 #include "Function.h"
 
 void displayMatrix(float matrix[MAX_SIZE][MAX_SIZE], int size) {

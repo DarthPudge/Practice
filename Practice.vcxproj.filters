@@ -18,8 +18,11 @@
     <ClCompile Include="main.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Function.c">
-      <Filter>Файлы заголовков</Filter>
+    <ClCompile Include="Matrix.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Kramer.c">
+      <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
